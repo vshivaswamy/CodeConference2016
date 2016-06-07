@@ -1,5 +1,7 @@
 # CoderConference2016
 Demo used for Chicago Coder Conference 2016
 
-SoarGraph architect files are available.
-Eclipse require a SonarGraph Explorer or Architect plugin to assign projects to this tool.
+To use SonarGraph architect files.  
+You will require to install SonarGraph Explorer or Architect plugin into your IDE.  
+Once installed you should be able to assign projects to SonarGraph.  
+
