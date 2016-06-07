@@ -1,2 +1,2 @@
-# CodeConference2016
+# CoderConference2016
 Demo used for Chicago Coder Conference 2016
